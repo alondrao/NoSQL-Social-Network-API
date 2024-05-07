@@ -1,0 +1,25 @@
+{
+    "name": "NoSQL-Social-Network-API",
+    "version": "1.0.0",
+    "description": "NoSQL Challenge",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/alondrao/NoSQL-Social-Network-API.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/alondrao/NoSQL-Social-Network-API/issues"
+    },
+    "homepage": "https://github.com/alondrao/NoSQL-Social-Network-API#readme",
+    "dependencies": {
+      "express": "^4.17.1",
+      "moment": "^2.28.0",
+      "mongoose": "^5.10.5"
+    }
+  }
